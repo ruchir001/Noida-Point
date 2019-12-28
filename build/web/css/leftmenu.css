@@ -1,0 +1,27 @@
+.menu A {
+	FONT-WEIGHT: bold; COLOR: #006699; TEXT-DECORATION: none
+}
+.options A {
+	FONT-WEIGHT: bold; COLOR: #006699; TEXT-DECORATION: none
+}
+.menu A:hover {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+.options A:hover {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+.menu A:active {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+.options A:active {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+.Menu {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 3px; BORDER-TOP: #fff 2px solid; PADDING-LEFT: 3px; FONT-SIZE: 11px; PADDING-BOTTOM: 3px; VERTICAL-ALIGN: middle; BORDER-LEFT: #b4b4b4 1px solid; WIDTH: 150px; CURSOR: pointer; COLOR: #000000; PADDING-TOP: 3px; BORDER-BOTTOM: #b4b4b4 1px solid; FONT-FAMILY: tahoma, verdana, helvetica; BACKGROUND-COLOR: #eeeeee
+}
+.Option {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; VERTICAL-ALIGN: middle; WIDTH: 139px; CURSOR: pointer; PADDING-TOP: 4px; BACKGROUND-COLOR: #ffffff
+}
+.Options {
+	PADDING-LEFT: 10px; FONT-WEIGHT: normal; FONT-SIZE: 10px; VERTICAL-ALIGN: middle; COLOR: #000000; FONT-FAMILY: verdana; BACKGROUND-COLOR: #ffffff
+}

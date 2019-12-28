@@ -1,0 +1,12 @@
+#ajax_tooltipObj {
+	Z-INDEX: 1000000; TEXT-ALIGN: left
+}
+#ajax_tooltipObj DIV {
+	POSITION: relative
+}
+#ajax_tooltipObj .ajax_tooltip_arrow {
+	BACKGROUND-POSITION: left center; Z-INDEX: 1000005; LEFT: 0px; BACKGROUND-IMAGE: url(../../images/arrow_tip.gif); WIDTH: 20px; BACKGROUND-REPEAT: no-repeat; POSITION: absolute; TOP: 0px; HEIGHT: 30px
+}
+#ajax_tooltipObj .ajax_tooltip_content {
+	BORDER-RIGHT: #317082 2px solid; PADDING-RIGHT: 5px; BORDER-TOP: #317082 2px solid; PADDING-LEFT: 5px; FONT-SIZE: 11px; Z-INDEX: 1000001; LEFT: 18px; PADDING-BOTTOM: 5px; OVERFLOW: auto; BORDER-LEFT: #317082 2px solid; WIDTH: 450px; LINE-HEIGHT: 15px; PADDING-TOP: 5px; BORDER-BOTTOM: #317082 2px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; POSITION: absolute; TOP: 0px; HEIGHT: auto; BACKGROUND-COLOR: #fff
+}

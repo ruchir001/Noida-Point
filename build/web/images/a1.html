@@ -1,0 +1,10 @@
+<%@ page import="java.sql.*"%> 
+<%
+Class.forName("sun.jdbc.odbc.JdbcOdbcDriver");
+Connection co=DriverManager.getConnection("jdbc:odbc:dsn1");
+Statement st=co.createStatement();
+se.executeUpdate("insert into tem values");
+co.commit();
+st.close();
+co.close();
+%>

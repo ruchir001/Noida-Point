@@ -1,0 +1,30 @@
+DIV.sample_popup {
+	Z-INDEX: 1
+}
+DIV.sample_popup DIV.menu_form_header {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: #3e92bf; VERTICAL-ALIGN: middle; BORDER-LEFT: #cccccc 1px solid; WIDTH: 400px; CURSOR: default; COLOR: #ffffff; LINE-HEIGHT: 19px; BORDER-BOTTOM: medium none; FONT-FAMILY: Arial; HEIGHT: 20px; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+DIV.sample_popup DIV.menu_form_body {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-WEIGHT: 500; FONT-SIZE: 12px; BACKGROUND: #ffffff left bottom; BORDER-LEFT: #cccccc 1px solid; WIDTH: 400px; CURSOR: default; COLOR: #999999; BORDER-BOTTOM: #cccccc 1px solid; FONT-FAMILY: Arial; TEXT-ALIGN: left; TEXT-DECORATION: none
+}
+DIV.sample_popup IMG.menu_form_exit {
+	FLOAT: right; MARGIN: 4px 5px 0px 0px; CURSOR: pointer
+}
+DIV.sample_popup TABLE {
+	WIDTH: 100%; BORDER-COLLAPSE: collapse
+}
+DIV.sample_popup TH {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 0px; FONT-WEIGHT: 900; FONT-SIZE: 13px; PADDING-BOTTOM: 1px; WIDTH: 1%; COLOR: #004060; PADDING-TOP: 0px; FONT-FAMILY: Times New Roman, Serif; TEXT-ALIGN: left
+}
+DIV.sample_popup TD {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 1px; WIDTH: 99%; PADDING-TOP: 0px
+}
+DIV.sample_popup FORM {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-TOP: 8px
+}
+DIV.sample_popup INPUT.field {
+	BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #808080 1px solid; WIDTH: 95%; BORDER-BOTTOM: #808080 1px solid; FONT-FAMILY: Verdana, Sans-Serif
+}
+DIV.sample_popup INPUT.btn {
+	BORDER-RIGHT: #808080 1px solid; BORDER-TOP: #808080 1px solid; MARGIN-TOP: 2px; FONT-SIZE: 11px; BORDER-LEFT: #808080 1px solid; BORDER-BOTTOM: #808080 1px solid; FONT-FAMILY: Verdana, Sans-Serif; BACKGROUND-COLOR: #ddffdd
+}

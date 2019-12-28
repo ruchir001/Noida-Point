@@ -1,0 +1,9 @@
+.modalDialog_transparentDivs {
+	Z-INDEX: 1; FILTER: alpha(opacity=40); POSITION: absolute; BACKGROUND-COLOR: #aaa; opacity: 0.4
+}
+.modalDialog_contentDiv {
+	BORDER-RIGHT: #000 3px solid; PADDING-RIGHT: 2px; BORDER-TOP: #000 3px solid; PADDING-LEFT: 2px; Z-INDEX: 100; PADDING-BOTTOM: 2px; BORDER-LEFT: #000 3px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #000 3px solid; POSITION: absolute; BACKGROUND-COLOR: #fff
+}
+.modalDialog_contentDiv_shadow {
+	Z-INDEX: 90; FILTER: alpha(opacity=30); POSITION: absolute; BACKGROUND-COLOR: #555; opacity: 0.3
+}

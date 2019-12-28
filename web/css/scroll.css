@@ -1,0 +1,45 @@
+.tableWidget_headerCell {
+	BORDER-RIGHT: #aca899 1px solid; BORDER-LEFT: #fff 1px solid; CURSOR: pointer; BORDER-BOTTOM: #c5c2b2 3px solid; BACKGROUND-COLOR: #ece9d8
+}
+.tableWigdet_headerCellOver {
+	BORDER-RIGHT: #aca899 1px solid; BORDER-LEFT: #fff 1px solid; CURSOR: pointer; BORDER-BOTTOM: #c5c2b2 3px solid; BACKGROUND-COLOR: #ece9d8
+}
+.tableWigdet_headerCellDown {
+	BORDER-RIGHT: #aca899 1px solid; BORDER-LEFT: #fff 1px solid; CURSOR: pointer; BORDER-BOTTOM: #c5c2b2 3px solid; BACKGROUND-COLOR: #ece9d8
+}
+.tableWidget_headerCell {
+	BORDER-TOP: #ece9d8 2px solid
+}
+.tableWigdet_headerCellOver {
+	BORDER-TOP: #ffc83c 2px solid
+}
+.tableWidget TBODY .tableWidget_dataRollOver {
+	BACKGROUND-COLOR: #fff
+}
+.tableWigdet_headerCellDown {
+	BORDER-RIGHT: #fff 1px solid; BORDER-TOP: #ffc83c 2px solid; BORDER-LEFT: #aca899 1px solid; BACKGROUND-COLOR: #dbd8c5
+}
+.tableWidget {
+	FONT-SIZE: 12px; WIDTH: 400px; FONT-FAMILY: arial; BORDER-COLLAPSE: collapse
+}
+.tableWidget TD {
+	BORDER-RIGHT: #e6e3df 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: 0px; PADDING-LEFT: 5px; FONT-SIZE: 12px; PADDING-BOTTOM: 2px; MARGIN: 0px; BORDER-LEFT: #e6e3df 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #e6e3df 1px solid; BORDER-COLLAPSE: collapse
+}
+.tableWidget TBODY {
+	
+}
+DIV.widget_tableDiv {
+	OVERFLOW-Y: auto; WIDTH: 400px
+}
+UNKNOWN {
+	OVERFLOW: hidden; WIDTH: 400px
+}
+.tableWidget THEAD {
+	POSITION: relative
+}
+.tableWidget THEAD TR {
+	BOTTOM: 0px; POSITION: relative;  TOP: expression(offsetParent.scrollTop);
+}
+.tableWidget .scrollingContent {
+	OVERFLOW-Y: auto; OVERFLOW-X: hidden; WIDTH: 100%
+}

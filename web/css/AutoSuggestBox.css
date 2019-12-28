@@ -1,0 +1,15 @@
+#ajax_listOfOptions {
+	BORDER-RIGHT: #317082 1px solid; BORDER-TOP: #317082 1px solid; FONT-SIZE: 0.9em; Z-INDEX: 100; OVERFLOW: auto; BORDER-LEFT: #317082 1px solid; WIDTH: 175px; BORDER-BOTTOM: #317082 1px solid; POSITION: absolute; HEIGHT: 250px; BACKGROUND-COLOR: #fff; TEXT-ALIGN: left
+}
+#ajax_listOfOptions DIV {
+	PADDING-RIGHT: 1px; PADDING-LEFT: 1px; FONT-SIZE: 0.9em; PADDING-BOTTOM: 1px; MARGIN: 1px; CURSOR: pointer; PADDING-TOP: 1px
+}
+#ajax_listOfOptions .optionDiv {
+	
+}
+#ajax_listOfOptions .optionDivSelected {
+	COLOR: #fff; BACKGROUND-COLOR: #317082
+}
+#ajax_listOfOptions_iframe {
+	Z-INDEX: 5; POSITION: absolute; BACKGROUND-COLOR: #f00
+}

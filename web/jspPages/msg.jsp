@@ -1,0 +1,1 @@
+<b> <%= (String) request.getAttribute("msg") %> </b>
